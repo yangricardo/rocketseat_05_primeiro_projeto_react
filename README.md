@@ -14,4 +14,4 @@
     - atributo exact garante que a rota seja acessada
   - HashRouter: utiliza `#` como ponto de roteamento
 
-- styled-components
+- styled-components e polished: estilização de componentes / tratamento de cores
