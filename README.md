@@ -9,6 +9,9 @@
 - [Figma Github Explorer](https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1)
 
 - tipos de routes
+
   - Browser router: utiliza somente a `/` como ponto de rota
     - atributo exact garante que a rota seja acessada
   - HashRouter: utiliza `#` como ponto de roteamento
+
+- styled-components
