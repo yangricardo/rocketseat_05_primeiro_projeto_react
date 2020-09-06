@@ -7,3 +7,8 @@
 - `yarn add eslint-plugin-react @typescript-eslint/eslint-plugin eslint-config-airbnb eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react-hooks @typescript-eslint/parser eslint-import-resolver-typescript -D` dependencias do eslint
 - `yarn add prettier eslint-config-prettier eslint-plugin-prettier -D` prettier
 - [Figma Github Explorer](https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=0%3A1)
+
+- tipos de routes
+  - Browser router: utiliza somente a `/` como ponto de rota
+    - atributo exact garante que a rota seja acessada
+  - HashRouter: utiliza `#` como ponto de roteamento
