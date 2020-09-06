@@ -15,3 +15,4 @@
   - HashRouter: utiliza `#` como ponto de roteamento
 
 - styled-components e polished: estilização de componentes / tratamento de cores
+- !! converte valor da variavel em um boleano com base no seu valor (verifica a existencia e inverte o valor )
